@@ -1,0 +1,28 @@
+.reasons-list-item .message {
+    display: none;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.reasons-list-item .message textarea {
+    width: 100%;
+}
+
+.reasons-list-item.selected .message {
+    display: block;
+}
+
+.reasons-list {
+    margin-top: 20px;
+}
+
+.bottom-support-link {
+    text-align: right;
+}
+
+.ecwid-popup .ecwid-popup-window {
+    left: 50%;
+    margin-left: -298px;
+    top: 10%;
+    width: 596px;
+}
